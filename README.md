@@ -2,7 +2,7 @@
 
 ### Hi there folks 👋
 ![Harshal's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Harshal662&&show_icons=true&theme=dark)<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal662&theme=vision-friendly-dark&hide=assembly)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Harshal662&layout=compact&langs_count=8&card_width=320)
 
 
 Here are some ideas to get you started:
