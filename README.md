@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshal662&label=Profile%20views&color=0e75b6&style=flat" alt="Harshal662" /> </p>
 
 ### Hi there folks 👋
-![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshal662&theme=vision-friendly-dark&show_icons=true)<br />
+![Harshal's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Harshal662&&show_icons=true&theme=dark)<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal662&theme=vision-friendly-dark&hide=assembly)
 
 
