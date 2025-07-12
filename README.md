@@ -24,7 +24,7 @@ Welcome to my portfolio — here you'll find a collection of my projects, hackat
 
 - 🌱 Currently exploring Generative AI, Power Platform (Power Apps, Power Automate), Azure OpenAI, and DevOps
 
-- 📫 Reach me at: Portfolio Website <!-- (replace with actual link if you have one) -->
+- 📫 Reach me at: Portfolio Website https://harshal662.github.io/Portfolio/ <!-- (replace with actual link if you have one) -->
 
 - 🎯 Fun fact: *I love solving real-world problems with AI and automation — and yes, I enjoy debugging too :) *
 
