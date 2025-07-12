@@ -108,5 +108,6 @@ Welcome to my portfolio — here you'll find a collection of my projects, hackat
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=abakharshal@gmail.com;+91 7028090495;Harshal+Abak✌️👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=abakharshal@gmail.com;+91+7028090495;Harshal+Abak✌️👨‍💻" alt="Typing SVG" />
 </p>
+
